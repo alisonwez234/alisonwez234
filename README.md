@@ -1,1 +1,1 @@
-.md(/header.png)
+(/header.png)
